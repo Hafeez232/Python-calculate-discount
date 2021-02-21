@@ -43,6 +43,4 @@ print("Jumlah selepas diskaun: RM", round(jum_pembelian,2))
 
 if jum_pembelian >= 300:
     print("Anda juga layak menerima sampul duit raya")
-else:
-    exit
     
