@@ -30,8 +30,7 @@ elif jum_pembelian >= 201:
     jum_diskaun = jum_pembelian * diskaun
     print("\nJumlah diskaun: RM", round(jum_diskaun))
     
-else:
-    jum_pembelian >= 100
+elif jum_pembelian >= 100:
     print("\nDiskaun ialah 10%")
     diskaun = 0.10
     jum_diskaun = jum_pembelian * diskaun
